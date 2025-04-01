@@ -1,1 +1,0 @@
-This is the content of the input file. This will be copied onto the destination file.
