@@ -27,7 +27,8 @@ Step 4: Create the specific algorithm instance with
             make fcfs (will create .o files for first come first served)
     
 Step 5: Call the scheduler with the following:
+
         ./fcfs schedule.txt
 
-        Ensure to pass the text file so the terminal outputs the list of Processes
+ Ensure to pass the text file so the terminal outputs the list of Processes
 ----------------------------------------------------------------
