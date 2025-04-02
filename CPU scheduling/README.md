@@ -22,8 +22,8 @@ Step 3: Ensure that there is a clean batch, so use the command "make clean"
 
 Step 4: Create the specific algorithm instance with    
          "make (algorithm file name here)".
+         For example:
 
-        For example: 
             make fcfs (will create .o files for first come first served)
     
 Step 5: Call the scheduler with the following:
