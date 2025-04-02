@@ -4,7 +4,8 @@ Summary: This file will give a description of the code and how to run it.
 
 ----------------------------------------------------------------
 
-Description: This program creates the verification of the Banker's Algorithm.
+Description: This program creates the verification of
+CPU Scheduling Algorithms.
             
 
 ----------------------------------------------------------------
